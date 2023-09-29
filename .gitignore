@@ -131,6 +131,7 @@ dmypy.json
 .DS_Store
 penguins/*.sh
 penguins/*.csv
+penguins/**/*.csv
 penguins/*.py
 penguins/code/
 penguins/datasets/*
